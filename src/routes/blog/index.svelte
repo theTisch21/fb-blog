@@ -55,7 +55,8 @@ From these responses, we can conclude that people are upset because they feel th
 	<br>
 	<div class="author">
 		<h1>About the author</h1>
-		<h2>Hi! I'm Sam Tischaefer.</h2>
+		<h2>Hi! I'm Sam Tischaefer. I'm a student taking UW Comp at Eastlake high school. I've written about encryption, language, culture, and margins and centers.</h2>
+		<!--Fake Photo-->
 	</div>
 	
 </div>
