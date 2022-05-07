@@ -20,7 +20,7 @@
 			</picture>
 		</div>
 
-		TO MY BLOG LOL<br>
+		TO MY BLOG<br>
 	</h1>
 	<a href="/blog"><button class="leFancy">GO TO BLOG</button></a>
 
