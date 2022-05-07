@@ -33,7 +33,7 @@
 <div class="content">
 	
 	<h1>BLOG</h1>
-	<h2>PLEASE NOTE: If twitter is <strike>censored</strike> blocked on your network, Tweets will be converted to plain text for your convenience. All the twitter quotes and reddit screenshots are hyperlinked, simply click them to go to the original thread.</h2>
+	<h2>PLEASE NOTE: If twitter is blocked on your network, Tweets will be converted to plain text for your convenience. All the twitter quotes and reddit screenshots are hyperlinked, simply click them to go to the original thread.</h2>
 
 	<p>
 		I came across this interesting controversy the other day. It was this advertisement from Gillette, a razor company, published in 2019. <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/koPmuEyP3a0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br> The ad attempts to take a stand against toxic masculinity and violence among men and encourages men to be the best they can be to others. The interesting thing about it was that the ad really ticked off a lot of men. They took to twitter in storms, with loads of angry tweets. After looking into the matter, it’s clear that People who feel attacked by this ad feel this way because their sense of masculinity is being attacked, and therefore they feel like a victim to the feminist movement.
